@@ -7,3 +7,9 @@
 
 import Foundation
 import SwiftUI
+
+struct SwiftView: View {
+    var body: some View {
+        Text("Hello World")
+    }
+}
