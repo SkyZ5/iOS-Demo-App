@@ -13,6 +13,7 @@ struct ContentView: View {
             Image(systemName: "flag")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
+            Text("WELCOME TO THE MOST MAGICAL PLACE ON EARTH")
         }
         .padding()
     }
