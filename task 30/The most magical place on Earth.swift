@@ -10,6 +10,7 @@ import SwiftUI
 struct The_most_magical_place_on_Earth: View {
     var body: some View {
         Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        Text("What could be more magical than the most magical place on Earth")
     }
 }
 
